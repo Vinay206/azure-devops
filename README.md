@@ -1,8 +1,8 @@
 # Topics Covered:
 <!-- toc -->
-- [Azure portal account creation](#azure-portal-account-creation)
-- [Providing role in IAM](#providing-role-in-iam)
-- [VM creations](#vm-creations)
+1. [Azure portal account creation](#azure-portal-account-creation)
+1. [Providing role in IAM](#providing-role-in-iam)
+1. [VM creations](#vm-creations)
 	* [VM Password Reset](#vm-password-reset)
 	* [VM Resizing](#vm-resizing)
 	* [NSG rules](#nsg-rules)
