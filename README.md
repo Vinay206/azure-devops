@@ -15,6 +15,7 @@
 - [Data transfers Linux to Linux](#data-transfers-linux-to-linux)
 - [Web App services and custom domain change](#web-app-services-and-custom-domain-change)
 - [Azure Devops features](#azure-devops-features)
+- [Test](test.md)
 
 # Azure portal account creation
 # Providing role in IAM
